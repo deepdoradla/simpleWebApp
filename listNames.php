@@ -2,7 +2,7 @@
 
 	$servername = "localhost";
 	$username = "root";
-	$password = "root";
+	$password = "test1234";
 	$databaseName = "cloudwick";
 	
 	$conn = new mysqli($servername, $username, $password, $databaseName);

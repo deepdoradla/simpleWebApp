@@ -8,8 +8,8 @@
 	//Database connection
 
 	$servername = "localhost";
-	$username = "root";
-	$password = "root";
+	$username = "deep1";
+	$password = "test1234";
 	$databaseName = "cloudwick";
 
 	$conn = new mysqli($servername, $username, $password, $databaseName);
